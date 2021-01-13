@@ -1131,14 +1131,14 @@ footer {
     display: flex;
     align-items: flex-start;
     .title {
-      font-size: 19px;
+      font-size: 18px;
       font-weight: bold;
       margin: 0;
       margin-right: 10px;
       display: flex;
-      span {
-        margin-left: 10px;
-      }
+    }
+    span {
+      margin: 0px 10px;
     }
     .text {
       font-size: 15px;

@@ -1133,3 +1133,6 @@ footer {
       margin-right: 7px;
       max-width: 800px;
       line-height: 118%; }
+
+body {
+  background-color: #d1cece; }

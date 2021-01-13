@@ -1118,17 +1118,15 @@ footer {
     -ms-flex-align: start;
     align-items: flex-start; }
     .dictionaty-page_block .dictionaty-page_block__cont .title {
-      font-size: 18px;
+      font-size: 19px;
       font-weight: bold;
       margin: 0;
       margin-right: 10px;
       display: -webkit-box;
       display: -ms-flexbox;
-      display: flex;
-      max-width: 172px;
-      min-width: 172px; }
-    .dictionaty-page_block .dictionaty-page_block__cont span {
-      margin: 0px 10px; }
+      display: flex; }
+      .dictionaty-page_block .dictionaty-page_block__cont .title span {
+        margin-left: 10px; }
     .dictionaty-page_block .dictionaty-page_block__cont .text {
       font-size: 16px;
       margin: 0px;

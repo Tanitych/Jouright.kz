@@ -1131,6 +1131,7 @@ footer {
     display: flex;
     align-items: flex-start;
     .title {
+      font-size: 18px;
       font-weight: bold;
       margin: 0;
       margin-right: 10px;
@@ -1147,4 +1148,7 @@ footer {
       line-height: 118%;
     }
   }
+}
+body {
+  background-color: rgb(141, 59, 137);
 }

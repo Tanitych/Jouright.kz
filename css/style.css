@@ -1118,6 +1118,7 @@ footer {
     -ms-flex-align: start;
     align-items: flex-start; }
     .dictionaty-page_block .dictionaty-page_block__cont .title {
+      font-size: 18px;
       font-weight: bold;
       margin: 0;
       margin-right: 10px;
@@ -1132,3 +1133,6 @@ footer {
       margin-right: 7px;
       max-width: 800px;
       line-height: 118%; }
+
+body {
+  background-color: #8d3b89; }
